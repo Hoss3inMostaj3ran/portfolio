@@ -33,6 +33,7 @@ const Header = (props: Props) => {
 
         <SocialIcon fgColor="gray" bgColor="transparent" url="www.vimeo.com" />
       </motion.div>
+
       <motion.div
         initial={{
           x: 100,
